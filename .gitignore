@@ -1,0 +1,14 @@
+# Ignorar carpetas generadas por Unity
+Library/
+Temp/
+Logs/
+Obj/
+Builds/
+UserSettings/
+Assets/Firebase/
+
+# Ignorar archivos específicos
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
